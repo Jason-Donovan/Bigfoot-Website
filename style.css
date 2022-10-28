@@ -1,0 +1,51 @@
+#word{
+    color:#ffffff;
+    font-size: 10px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    margin: 10px;
+}
+
+h1 {
+    color:#ffffff;
+    font-size: 40px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-align: center;
+    border-style: solid;
+}
+
+#list{
+    color:#ffffff;
+    font-size: 13px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+h3{
+    color:#ffffff;
+    font-size: 13px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+#guide{
+    color:#ffffff;
+    font-size: 13px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    width: 730px;
+    position: absolute;
+    top: 100px;
+    right: 70px;
+    margin: 10px;
+}
+
+div.vertical {
+    border-left: 6px solid #ffffff;
+    height: 800px;
+    position:absolute;
+    left: 50%;
+}
+
+div.a{
+    word-wrap: break-word;
+}
