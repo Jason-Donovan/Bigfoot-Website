@@ -41,7 +41,8 @@ h3{
 
 div.vertical {
     border-left: 6px solid #ffffff;
-    height: 800px;
+    top: 11%;
+    height: 85%;
     position:absolute;
     left: 50%;
 }
